@@ -3,7 +3,7 @@ A Python Script to check whether the given latitude and longitude belongs to a g
 
 # Usage 
 
-Inside the `check_json.py` file, put your Googele Maps API key at `YOUR_API_KEY`. Now run the file by creating an object with `self`, your required `location name`, `latitude` and `longitude` as inputs. 
+Inside the `check_json.py` file, put your Google Maps API key at `YOUR_API_KEY`. Now run the file by creating an object with `self`, your required `location name`, `latitude` and `longitude` as inputs. 
 
 # Additional info
 
