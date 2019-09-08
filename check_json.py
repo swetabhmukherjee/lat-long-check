@@ -42,11 +42,11 @@ class Location:
         if ((ex_lat >= lat_range_start and ex_lat <= lat_range_end) and (
                 ex_long >= lon_range_start and ex_long <= lon_range_end)):
             flag = 1
-            # res = "Given co-ordinates are present inside "+location
-            # print(res)
+             res = "Given co-ordinates are present inside "+location
+             print(res)
             return flag
         else:
             flag = 0
-            # res = "Given co-ordinates are not present inside "+location
-            # print(res)
+             res = "Given co-ordinates are not present inside "+location
+             print(res)
             return flag
